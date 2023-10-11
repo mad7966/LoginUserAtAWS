@@ -1,0 +1,102 @@
+-injars 'C:\Users\jaspa\.gradle\caches\transforms-1\files-1.1\play-services-9.4.0.aar\34e4ed46987eca237275047faae4e994\jars\classes.jar'(**.class)
+-injars 'C:\Users\jaspa\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-9.4.0.aar\9cb27f27b93774b53b1b4184c178243b\jars\classes.jar'(**.class)
+-injars 'C:\Users\jaspa\.gradle\caches\transforms-1\files-1.1\play-services-cast-9.4.0.aar\07933a5458288c5eb886dd8d46152994\jars\classes.jar'(**.class)
+-injars 'C:\Users\jaspa\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-23.0.0.aar\eb057895647663dba27c739a3d74efe7\jars\classes.jar'(**.class)
+-injars 'C:\Users\jaspa\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-23.0.0.aar\eb057895647663dba27c739a3d74efe7\jars\libs\internal_impl-23.0.0.jar'(**.class)
+-injars 'C:\Users\jaspa\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\366c69fcf753e703c38ccd2bc9b40f44\jars\classes.jar'(**.class)
+-injars 'C:\Users\jaspa\.gradle\caches\modules-2\files-2.1\com.parse\parse-android\1.13.0\58a7d54b6a4f28be11f0cecec93097eddf473e6f\parse-android-1.13.0.jar'(**.class)
+-injars 'C:\Users\jaspa\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar'(**.class)
+-injars 'C:\Users\jaspa\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\104872a2a766b1d2307edd8d8c7702e3\jars\classes.jar'(**.class)
+-injars 'C:\Users\jaspa\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\a590d5f51d4e06e0a4d6ac1f62dfd24a\jars\classes.jar'(**.class)
+-injars 'C:\Users\jaspa\.gradle\caches\transforms-1\files-1.1\play-services-ads-9.4.0.aar\4e2c564767d73f716daf93fd925807f3\jars\classes.jar'(**.class)
+-injars 'C:\Users\jaspa\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.4.0.aar\4da94beacbd9392f497e1838989b6ceb\jars\classes.jar'(**.class)
+-injars 'C:\Users\jaspa\.gradle\caches\transforms-1\files-1.1\play-services-analytics-9.4.0.aar\46615bf558c5882edfcfccb3944cd500\jars\classes.jar'(**.class)
+-injars 'C:\Users\jaspa\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-9.4.0.aar\70175d8370993624e7f6edf022da3277\jars\classes.jar'(**.class)
+-injars 'C:\Users\jaspa\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-9.4.0.aar\414ab733158fc6650741a03005a0241a\jars\classes.jar'(**.class)
+-injars 'C:\Users\jaspa\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-9.4.0.aar\0476883568faf6d0871b1d9faa2c1054\jars\classes.jar'(**.class)
+-injars 'C:\Users\jaspa\.gradle\caches\transforms-1\files-1.1\play-services-auth-9.4.0.aar\783160afe5d2894da07ddba4f65296af\jars\classes.jar'(**.class)
+-injars 'C:\Users\jaspa\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-9.4.0.aar\34733f357867bcd7e894a6a55e7c4460\jars\classes.jar'(**.class)
+-injars 'C:\Users\jaspa\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-9.4.0.aar\a612d608d6aad0e2ccaf7d12055de36b\jars\classes.jar'(**.class)
+-injars 'C:\Users\jaspa\.gradle\caches\transforms-1\files-1.1\firebase-config-9.4.0.aar\d15889d1a03e9cd473c231080b1a4da4\jars\classes.jar'(**.class)
+-injars 'C:\Users\jaspa\.gradle\caches\transforms-1\files-1.1\play-services-contextmanager-9.4.0.aar\d518d7379e8357536801b6464b8684f6\jars\classes.jar'(**.class)
+-injars 'C:\Users\jaspa\.gradle\caches\transforms-1\files-1.1\firebase-crash-9.4.0.aar\9e2df09a5b2d875716f1623c5201d4a1\jars\classes.jar'(**.class)
+-injars 'C:\Users\jaspa\.gradle\caches\transforms-1\files-1.1\play-services-games-9.4.0.aar\b39b2048a756976e0abf299a5d90c499\jars\classes.jar'(**.class)
+-injars 'C:\Users\jaspa\.gradle\caches\transforms-1\files-1.1\play-services-drive-9.4.0.aar\d20943cf21e16a0ea0b5a7ebf983da85\jars\classes.jar'(**.class)
+-injars 'C:\Users\jaspa\.gradle\caches\transforms-1\files-1.1\firebase-auth-9.4.0.aar\dc25e523038946ccae953cbdc51722d6\jars\classes.jar'(**.class)
+-injars 'C:\Users\jaspa\.gradle\caches\transforms-1\files-1.1\firebase-auth-common-9.4.0.aar\fbc330fc5541449ae3238c4e33e9f525\jars\classes.jar'(**.class)
+-injars 'C:\Users\jaspa\.gradle\caches\transforms-1\files-1.1\firebase-auth-module-9.4.0.aar\3ed7b716a42bc0c36f5c841ca7494e95\jars\classes.jar'(**.class)
+-injars 'C:\Users\jaspa\.gradle\caches\transforms-1\files-1.1\firebase-database-9.4.0.aar\3053279c27c94645c1b6018f37ef3f83\jars\classes.jar'(**.class)
+-injars 'C:\Users\jaspa\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-9.4.0.aar\e1d62853950cb243b04a9f19256994b6\jars\classes.jar'(**.class)
+-injars 'C:\Users\jaspa\.gradle\caches\transforms-1\files-1.1\firebase-storage-9.4.0.aar\bc6027ab555a44a651504f9319381088\jars\classes.jar'(**.class)
+-injars 'C:\Users\jaspa\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-9.4.0.aar\fa7ff260152f185ef212974cdccac1df\jars\classes.jar'(**.class)
+-injars 'C:\Users\jaspa\.gradle\caches\transforms-1\files-1.1\play-services-fitness-9.4.0.aar\5623c9a6c9b007cfc832fd0927b37d2b\jars\classes.jar'(**.class)
+-injars 'C:\Users\jaspa\.gradle\caches\transforms-1\files-1.1\play-services-gcm-9.4.0.aar\ffda839375ae69e0b0e0d7b5ddf8591b\jars\classes.jar'(**.class)
+-injars 'C:\Users\jaspa\.gradle\caches\transforms-1\files-1.1\play-services-appindexing-9.4.0.aar\716e4d0ac8acb35feb2c057f15dee5d9\jars\classes.jar'(**.class)
+-injars 'C:\Users\jaspa\.gradle\caches\transforms-1\files-1.1\play-services-wallet-9.4.0.aar\5c5bcbc57f31f842ce20261b004bca7e\jars\classes.jar'(**.class)
+-injars 'C:\Users\jaspa\.gradle\caches\transforms-1\files-1.1\play-services-identity-9.4.0.aar\6b56598df97e416186e460511069838f\jars\classes.jar'(**.class)
+-injars 'C:\Users\jaspa\.gradle\caches\transforms-1\files-1.1\play-services-iid-9.4.0.aar\9b1d1bded15904bd048874f56a0cf9d7\jars\classes.jar'(**.class)
+-injars 'C:\Users\jaspa\.gradle\caches\transforms-1\files-1.1\play-services-location-9.4.0.aar\12afda055dafce919ad62be4b22a4507\jars\classes.jar'(**.class)
+-injars 'C:\Users\jaspa\.gradle\caches\transforms-1\files-1.1\play-services-places-9.4.0.aar\c77407ab9570a94a2d97bc9ee23bfedd\jars\classes.jar'(**.class)
+-injars 'C:\Users\jaspa\.gradle\caches\transforms-1\files-1.1\play-services-maps-9.4.0.aar\e6dd492de20fe960b1c996912b399931\jars\classes.jar'(**.class)
+-injars 'C:\Users\jaspa\.gradle\caches\transforms-1\files-1.1\play-services-nearby-9.4.0.aar\d48bf9f007b285e241c4aa0f45587083\jars\classes.jar'(**.class)
+-injars 'C:\Users\jaspa\.gradle\caches\transforms-1\files-1.1\play-services-panorama-9.4.0.aar\22c4ed31adc4f526c8511c68fb3baaa5\jars\classes.jar'(**.class)
+-injars 'C:\Users\jaspa\.gradle\caches\transforms-1\files-1.1\play-services-plus-9.4.0.aar\ebc526a3d24c97a08064f601ecbd60ac\jars\classes.jar'(**.class)
+-injars 'C:\Users\jaspa\.gradle\caches\transforms-1\files-1.1\play-services-safetynet-9.4.0.aar\21af4bdf1c1cf40917e00c4e226f830d\jars\classes.jar'(**.class)
+-injars 'C:\Users\jaspa\.gradle\caches\transforms-1\files-1.1\play-services-vision-9.4.0.aar\d1aa1141062fdbab2fb96225d5714fea\jars\classes.jar'(**.class)
+-injars 'C:\Users\jaspa\.gradle\caches\transforms-1\files-1.1\play-services-wearable-9.4.0.aar\fefbb95865907064c406c73866b729c8\jars\classes.jar'(**.class)
+-injars 'C:\Users\jaspa\.gradle\caches\transforms-1\files-1.1\play-services-base-9.4.0.aar\34d855e386ae27c11362613c8897fc0d\jars\classes.jar'(**.class)
+-injars 'C:\Users\jaspa\.gradle\caches\transforms-1\files-1.1\firebase-messaging-9.4.0.aar\53b918f216d73da69c1ee038e86c74ab\jars\classes.jar'(**.class)
+-injars 'C:\Users\jaspa\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-9.4.0.aar\e399b15408e1f4279a2e350fd4ffe3b9\jars\classes.jar'(**.class)
+-injars 'C:\Users\jaspa\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.4.0.aar\9545359a0274857aa556c7cb5dfa6a8d\jars\classes.jar'(**.class)
+-injars 'C:\Users\jaspa\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.4.0.aar\e8e24b0473af7510a94d886c79e73eae\jars\classes.jar'(**.class)
+-injars 'C:\Users\jaspa\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.4.0.aar\e5a57a301a96fb04078d412c9ab0958c\jars\classes.jar'(**.class)
+-injars 'C:\Users\jaspa\.gradle\caches\transforms-1\files-1.1\firebase-common-9.4.0.aar\859509b4994c1612eed916cbac945d0e\jars\classes.jar'(**.class)
+-injars 'C:\Users\jaspa\.gradle\caches\transforms-1\files-1.1\play-services-gass-9.4.0.aar\35412d367458b41b3a583957ca4184c5\jars\classes.jar'(**.class)
+-injars 'C:\Users\jaspa\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.4.0.aar\9c16df71eb1c3c19a4153fe334731cfb\jars\classes.jar'(**.class)
+-injars 'C:\Users\jaspa\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.4.0.aar\0e0548a746643e8eb9455ae02c7c4444\jars\classes.jar'(**.class)
+-injars 'C:\Users\jaspa\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\14c8236fa8a63c1076608c7dca16e75d\jars\classes.jar'(**.class)
+-injars 'C:\Users\jaspa\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\f719e0a013cfe40485c989a7a4da01c9\jars\classes.jar'(**.class)
+-injars 'C:\Users\jaspa\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\f719e0a013cfe40485c989a7a4da01c9\jars\libs\internal_impl-23.4.0.jar'(**.class)
+-injars 'C:\Users\jaspa\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar'(**.class)
+-injars 'C:\Users\jaspa\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\classes\debug'(**.class)
+-outjars 'C:\Users\jaspa\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\multi-dex\debug\componentClasses.jar'
+
+-libraryjars 'C:\Users\jaspa\AppData\Local\Android\Sdk\build-tools\26.0.2\lib\shrinkedAndroid.jar'
+
+-forceprocessing
+-dontoptimize
+-dontobfuscate
+-dontusemixedcaseclassnames
+-dontpreverify
+-dontnote **
+-dontwarn **
+-printconfiguration 'C:\Users\jaspa\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\multi-dex\debug\components.flags'
+
+
+# Referenced at C:\Users\jaspa\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\manifests\full\debug\AndroidManifest.xml:38
+-keep class com.parse.starter.StarterApplication {
+    <init>(...);
+}
+
+-keep public class * extends android.app.Instrumentation {
+    <init>();
+}
+
+-keep public class * extends android.app.Application {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+
+-keep public class * extends java.lang.annotation.Annotation {
+    <fields>;
+    <methods>;
+}
+
+-keep class com.android.tools.ir.** {
+    <fields>;
+    <methods>;
+}
